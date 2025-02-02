@@ -1,0 +1,8 @@
+Calendar = 
+ADDCOLUMNS(CALENDAR("1/1/"&[Prev_Year],"31/12/"&[Curr_Year]),
+"Year",YEAR([Date]),
+"Month",FORMAT([Date],"mmm"),
+"Month-Yr",FORMAT([Date],"mmm-yy"),
+"Day",FORMAT([Date],"ddd"),
+"MonthIndex",MONTH([Date]),
+"Quater","Q"&QUARTER([Date]))
