@@ -10,3 +10,6 @@ A bunch of Power Bi projects
 
 4. Realtime Weather Forecasting Dashboard
 Link: https://app.powerbi.com/links/GHGYObZG51?ctid=49789420-dc60-4090-b620-193f370ef0a1&pbi_source=linkShare&bookmarkGuid=c54ecad0-d98b-4ae3-935c-8a90115523a9
+
+5. Hospital Management Dashboard:
+   link: https://app.powerbi.com/links/DEdokXtp81?ctid=49789420-dc60-4090-b620-193f370ef0a1&pbi_source=linkShare&bookmarkGuid=f2ca7816-46bc-48d2-a974-7811a58ea407
